@@ -5,8 +5,8 @@ import {
   SiVisualstudiocode,
   SiVisualstudio,
   SiVercel,
+  SiPhpstorm
 } from "react-icons/si";
-import {AiFillGithub} from "react-icons/Ai
 
 function Toolstack() {
   return (
@@ -24,7 +24,7 @@ function Toolstack() {
         <SiVercel />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <AiFillGithub />
+        <SiPhpstorm />
       </Col>
     </Row>
   );
