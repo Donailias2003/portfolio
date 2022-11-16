@@ -20,11 +20,11 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              something...
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Dot Net, Javascript, PHP,Java and . </b>
+                <b className="purple"> Dot Net, Javascript, PHP and Java. </b>
               </i>
               <br />
               <br />
