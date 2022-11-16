@@ -101,7 +101,7 @@ function NavBar() {
                 <ImBlog style={{ marginBottom: "2px" }} /> Blogs
               </Nav.Link>
             </Nav.Item>
-
+          </Nav>
         </Navbar.Collapse>
       </Container>
     </Navbar>
