@@ -4,7 +4,6 @@ import {
   SiMicrosoftsqlserver,
   SiVisualstudiocode,
   SiVisualstudio,
-  AiFillGithub,
   SiVercel,
 } from "react-icons/si";
 import {AiFillGithub} from "react-icons/Ai
