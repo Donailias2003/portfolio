@@ -7,6 +7,7 @@ import {
   AiFillGithub,
   SiVercel,
 } from "react-icons/si";
+import {AiFillGithub} from "react-icons/Ai
 
 function Toolstack() {
   return (
